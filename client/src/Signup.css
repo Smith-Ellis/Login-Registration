@@ -1,0 +1,35 @@
+body {
+    background-color: #608E8E;
+}
+
+h2 {
+    text-align: center;
+}
+
+#regForm { 
+    background-color: #416D6D;
+    color:#E1DAD4;
+    width: 400px;
+}
+
+#regText {
+    color: #E1DAD4
+}
+
+#signInLink{
+    margin: 30px;
+    text-align: center;
+}
+
+form{
+    padding-top: 15px;
+    margin: 30px;
+}
+
+button{
+    margin-top: 30px;
+}
+
+input{
+    color: #E1DAD4;
+}
